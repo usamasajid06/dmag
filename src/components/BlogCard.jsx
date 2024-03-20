@@ -86,7 +86,7 @@ const BlogCard = () => {
           }}
         >
           {blogs.map((blog) => (
-            <SwiperSlide key={blog.ids}>
+            <SwiperSlide key={blog.id}>
               <div className="flex flex-wrap">
                 <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                   <img

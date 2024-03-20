@@ -92,22 +92,22 @@ const ResidenceSwiper = () => {
         >
           {residences.map((residence) => (
             <SwiperSlide key={residence.id}>
-              <div class="flex flex-wrap mb-32 relative">
+              <div className="flex flex-wrap mb-32 relative">
                 <div>
                   <img
                     alt="img"
-                    class="object-cover object-center w-full h-96"
+                    className="object-cover object-center w-full h-96"
                     src={residence.img}
                   />
-                  <div class="absolute inset-0 border-2 p-3 m-3 border-gray-300"></div>
+                  <div className="absolute inset-0 border-2 p-3 m-3 border-gray-300"></div>
 
-                  <div class="absolute inset-0 bg-gradient-to-b from-transparent to-black opacity-50"></div>
+                  <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black opacity-50"></div>
                 </div>
-                <div class="absolute bottom-6 left-0 w-full flex flex-col items-center justify-center">
-                  <h3 class="text-white md:text-xl sm:text-lg tracking-widest title-font mb-1">
+                <div className="absolute bottom-6 left-0 w-full flex flex-col items-center justify-center">
+                  <h3 className="text-white md:text-xl sm:text-lg tracking-widest title-font mb-1">
                     {residence.name}
                   </h3>
-                  <h2 class="text-white title-font text-lg font-medium">
+                  <h2 className="text-white title-font text-lg font-medium">
                     {residence.city}
                   </h2>
                 </div>

@@ -3,7 +3,7 @@ import backgroundImage from "../../assets/servicePhoto.jpg";
 const Services = () => {
   return (
     <div>
-      <h1 class="sm:text-2xl text-2xl font-semibold text-center mb-16 text-gray-900">
+      <h1 className="sm:text-2xl text-2xl font-semibold text-center mb-16 text-gray-900">
         | OUR SERVICES |
       </h1>
       <section
@@ -21,9 +21,9 @@ const Services = () => {
               className="w-full h-72"
               src="https://www.youtube.com/embed/2aChEm6_AeU"
               title="DMAG International Properties LLC (Introducing The New Brand of Dubai Real Estate)"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
