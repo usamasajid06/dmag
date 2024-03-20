@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Oceanz By Danube",
+    "city":"Maritime City",
+    "img":"https://dmag.ae/uploads/frontend/projects/59/conversions/2385_1695040144-resize_images.webp",
+    "id":1
+  },
+  {
+    "name":"Lagoon Views",
+    "city":"Damac Lagoons",
+    "img":"https://dmag.ae/uploads/frontend/projects/20/conversions/lagoon-views-resize.webp",
+    "id":2
+  },
+  {
+    "name":"Damac Cavalli Estates",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/60/conversions/damac-cavalli-estates-resize.webp",
+    "id":3
+  },
+  {
+    "name":"Danube Bayz",
+    "city":"Maritime City",
+    "img":"https://dmag.ae/uploads/frontend/projects/14/conversions/danube-bayz-resize.webp",
+    "id":4
+  },
+  {
+    "name":"Habtoor Grand",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/46/conversions/habtoor-grand-resize.webp",
+    "id":5
+  },
+  {
+    "name":"Mercedes Benz Place",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/70/conversions/mercedes-benz-places-resize.webp",
+    "id":6
+  },
+  {
+    "name":"Damac Volta",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/107/conversions/sobha-seahaven-resize.webp",
+    "id":7
+  },
+  {
+    "name":"St Regis Residence",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/60/conversions/damac-cavalli-estates-resize.webp",
+    "id":8
+  },
+  {
+    "name":"Vida Residence",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/99/conversions/vida-residences-resize.webp",
+    "id":9
+  },
+  {
+    "name":"Sobha SeaHaven",
+    "city":"Down Town Dubai",
+    "img":"https://dmag.ae/uploads/frontend/projects/107/conversions/sobha-seahaven-resize.webp",
+    "id":10
+  }
+]

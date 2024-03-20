@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Buyiny",
+    "img": "https://dmag.ae/frontend/assets/img/icons/rent.png",
+    "id": 1
+  },
+  {
+    "name": "Commercial",
+    "img": "https://dmag.ae/frontend/assets/img/icons/deal.png",
+    "id": 2
+  },
+  {
+    "name": "Joint Venture",
+    "img": "https://dmag.ae/frontend/assets/img/icons/cooperation.png",
+    "id": 3
+  },
+  {
+    "name": "Plots",
+    "img": "https://dmag.ae/frontend/assets/img/icons/mortgage-loan.png",
+    "id": 3
+  }
+]

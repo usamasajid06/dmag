@@ -1,0 +1,17 @@
+[
+  {
+    "name":"COMMERCIAL",
+    "img":"https://dmag.ae/frontend/assets/img/service1.webp",
+    "id": 1
+  },
+  {
+    "name":"PLOTS",
+    "img":"https://dmag.ae/frontend/assets/img/service2.webp",
+    "id": 2
+  },
+  {
+    "name":"JOINT VENTURES",
+    "img":"https://dmag.ae/frontend/assets/img/service3.webp",
+    "id": 3
+  }
+]
